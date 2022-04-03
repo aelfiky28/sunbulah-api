@@ -36,7 +36,6 @@ const LeftMenu = ({ shouldUpdateStrapi, version, plugins, setUpdateMenu }) => {
       permissions: [{ action: 'plugins::content-manager.explorer.read', subject: "application::home.home" }]
     }
   ];
-
   const productLinks = [
     {
       icon: 'circle',
