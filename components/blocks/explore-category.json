@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_explore_categories",
+  "info": {
+    "name": "Explore Category",
+    "icon": "bowling-ball"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "text",
+      "required": true
+    },
+    "categories": {
+      "collection": "categories"
+    }
+  }
+}

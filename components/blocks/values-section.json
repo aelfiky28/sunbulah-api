@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_blocks_values_sections",
+  "info": {
+    "name": "Values Section",
+    "icon": "bookmark"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "Values": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sliders.values"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_blocks_goal_sections",
+  "info": {
+    "name": "Goal Section",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "statement": {
+      "type": "text",
+      "required": true
+    },
+    "GoalImage": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sliders.goal-image",
+      "required": true
+    }
+  }
+}

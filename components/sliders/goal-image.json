@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_sliders_goal_images",
+  "info": {
+    "name": "Goal Image",
+    "icon": "arrow-left"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    },
+    "alt_text": {
+      "type": "string"
+    }
+  }
+}

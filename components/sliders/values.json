@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_sliders_values",
+  "info": {
+    "name": "Values",
+    "icon": "arrow-up"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    },
+    "heading": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

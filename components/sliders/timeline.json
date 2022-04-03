@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_sliders_timelines",
+  "info": {
+    "name": "Timeline",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "headline": {
+      "type": "richtext",
+      "required": true
+    },
+    "text": {
+      "type": "text"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    }
+  }
+}

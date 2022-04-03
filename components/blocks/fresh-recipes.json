@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_fresh_recipes",
+  "info": {
+    "name": "Fresh Recipes",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "recipes": {
+      "collection": "recipes"
+    }
+  }
+}

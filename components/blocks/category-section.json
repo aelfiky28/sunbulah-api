@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_category_sections",
+  "info": {
+    "name": "Category Section",
+    "icon": "arrow-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "products": {
+      "collection": "products"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sliders_home_sliders",
+  "info": {
+    "name": "Home Slider",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "custom_text": {
+      "type": "string"
+    },
+    "custom_description": {
+      "type": "text"
+    },
+    "product": {
+      "model": "products"
+    }
+  }
+}

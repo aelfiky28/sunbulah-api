@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_blocks_selected_recipes",
+  "info": {
+    "name": "Selected Recipes",
+    "icon": "arrow-alt-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "tab_name": {
+      "type": "string"
+    },
+    "first_card_text_one": {
+      "type": "string"
+    },
+    "first_card_text_two": {
+      "type": "string"
+    },
+    "first_card_description": {
+      "type": "text"
+    },
+    "first_card_link": {
+      "type": "string"
+    },
+    "recipes": {
+      "collection": "recipes"
+    }
+  }
+}

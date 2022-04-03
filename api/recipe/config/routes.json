@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/recipe",
+      "handler": "recipe.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/recipe",
+      "handler": "recipe.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/recipe",
+      "handler": "recipe.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

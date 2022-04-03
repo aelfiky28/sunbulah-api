@@ -1,0 +1,59 @@
+{
+    "collectionType": {
+      "id": "app.components.LeftMenuLinkContainer.collectionTypes",
+      "defaultMessage": "Collection Types"
+    },
+    "singleType": {
+      "id": "app.components.LeftMenuLinkContainer.singleTypes",
+      "defaultMessage": "Single Types"
+    },
+    "home": {
+      "id": "app.components.LeftMenuLinkContainer.home",
+      "defaultMessage": "Home"
+    },
+    "about": {
+      "id": "app.components.LeftMenuLinkContainer.about",
+      "defaultMessage": "About"
+    },
+    "products": {
+      "id": "app.components.LeftMenuLinkContainer.products",
+      "defaultMessage": "Products"
+    },
+    "recipes": {
+      "id": "app.components.LeftMenuLinkContainer.recipes",
+      "defaultMessage": "Recipes"
+    },
+    "contact": {
+      "id": "app.components.LeftMenuLinkContainer.contact",
+      "defaultMessage": "Contact Us"
+    },
+    "listPlugins": {
+      "id": "app.components.LeftMenuLinkContainer.listPlugins",
+      "defaultMessage": "Plugins"
+    },
+    "installNewPlugin": {
+      "id": "app.components.LeftMenuLinkContainer.installNewPlugin",
+      "defaultMessage": "Marketplace"
+    },
+    "configuration": {
+      "id": "app.components.LeftMenuLinkContainer.configuration",
+      "defaultMessage": "Configurations"
+    },
+    "plugins": {
+      "id": "app.components.LeftMenuLinkContainer.plugins",
+      "defaultMessage": "Plugins"
+    },
+    "general": {
+      "id": "app.components.LeftMenuLinkContainer.general",
+      "defaultMessage": "General"
+    },
+    "noPluginsInstalled": {
+      "id": "app.components.LeftMenuLinkContainer.noPluginsInstalled",
+      "defaultMessage": "No plugins installed yet"
+    },
+    "settings": {
+      "id": "app.components.LeftMenuLinkContainer.settings",
+      "defaultMessage": "Settings"
+    }
+  }
+  

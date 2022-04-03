@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_explore_recipes_by_categories",
+  "info": {
+    "name": "Explore Recipes By Category",
+    "icon": "arrow-alt-circle-left"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "products": {
+      "collection": "products"
+    }
+  }
+}

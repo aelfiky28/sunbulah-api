@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_explore_by_tags",
+  "info": {
+    "name": "Explore By Tags",
+    "icon": "comments"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "tags": {
+      "collection": "tags"
+    }
+  }
+}

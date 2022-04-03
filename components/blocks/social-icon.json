@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_blocks_social_icons",
+  "info": {
+    "name": "Social Icon",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "icon": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    }
+  }
+}

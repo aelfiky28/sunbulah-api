@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_blocks_contact_infos",
+  "info": {
+    "name": "Contact Info",
+    "icon": "at"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

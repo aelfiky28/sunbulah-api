@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_explore_chefs",
+  "info": {
+    "name": "Explore Chefs",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "authors": {
+      "collection": "authors"
+    }
+  }
+}

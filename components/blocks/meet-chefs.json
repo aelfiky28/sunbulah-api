@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_blocks_meet_chefs",
+  "info": {
+    "name": "Meet Chefs",
+    "icon": "cocktail"
+  },
+  "options": {},
+  "attributes": {
+    "first_heading": {
+      "type": "string",
+      "required": true
+    },
+    "second_heading": {
+      "type": "string"
+    },
+    "authors": {
+      "collection": "authors"
+    }
+  }
+}

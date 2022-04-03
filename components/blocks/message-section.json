@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_message_sections",
+  "info": {
+    "name": "Message Section",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "upper_text": {
+      "type": "text"
+    },
+    "lower_text": {
+      "type": "text"
+    }
+  }
+}
